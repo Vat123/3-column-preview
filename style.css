@@ -89,7 +89,7 @@ button{
     background-color: hsl(179, 100%, 13%) ;
     display: grid;
     place-items: center;
-    color: hsla(0, 0%, 100%, 0.75);
+    color: hsla(0, 0%, 100%, 0.75); 
     
 }
 .Third-Text{
