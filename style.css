@@ -1,6 +1,7 @@
 body{
     margin: 0;
     font-size: 15px;
+    background-color:hsl(0, 0%, 95%);
 }
 /* size of each card */
 .Card{
